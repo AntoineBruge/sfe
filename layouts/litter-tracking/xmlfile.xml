@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="AUTRE" />
+            <button type="tag" label="AUTRE +10" />
+        </row>
+        <row> 
+            <button type="tag" label="ALIMENTAIRE" />
+            <button type="tag" label="BOUTEILLE" />
+            <button type="tag" label="OBJET COURANT" />
+        </row>
+        <row>
+            <button type="tag" label="AGRICOLE" />
+            <button type="tag" label="INDUSTRIEL ET CONSTRUCTION" />
+            <button type="tag" label="PECHE ET CHASSE" />
+        </row>
+    </layout>
+</layouts>
